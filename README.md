@@ -1,5 +1,19 @@
 # Next.js + Tailwind CSS Example
 
+Infos from Tolga:
+Installed following packages:
+- tailwindcss (for predefined global css classes) 
+  - https://tailwindcss.com/docs/installation)
+- graphql & graphql-request (for Backend implementation)
+  - https://www.npmjs.com/package/graphql-request
+  - https://graphcms.com/
+- moment (for date formatting)
+  - https://www.npmjs.com/package/moment
+- several fontawesome packages (for free icons)
+  - https://fontawesome.com/start
+- material ui (for predefined ui components)
+  - https://mui.com/material-ui/getting-started/installation/
+
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
 ## Deploy your own
